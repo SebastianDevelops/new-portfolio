@@ -31,4 +31,4 @@ Server/config.js
 #firebase
 .firebasesrc
 .firebase.json
-/src/firebase.js
+src/firebase.js
