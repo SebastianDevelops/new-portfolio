@@ -27,3 +27,8 @@ yarn-error.log*
 
 Server/node_modules
 Server/config.js
+
+#firebase
+.firebasesrc
+.firebase.json
+/src/firebase.js
