@@ -29,6 +29,7 @@ Server/node_modules
 Server/config.js
 
 #firebase
+/firebase
+src/firebase.js
 .firebasesrc
 .firebase.json
-src/firebase.js
